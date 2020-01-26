@@ -1,6 +1,21 @@
+<<<<<<< .merge_file_a07308
 Change test 1
 Change test 2
 
+||||||| .merge_file_a06532
+
+
+
+
+
+
+
+=======
+Change test 3
+Change test 4
+Change test 5
+
+>>>>>>> .merge_file_a10308
 import time
 import pandas as pd
 import numpy as np
